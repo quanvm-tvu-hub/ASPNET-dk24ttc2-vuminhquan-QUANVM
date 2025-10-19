@@ -1,7 +1,7 @@
 # 📝 BÁO CÁO TIẾN ĐỘ TUẦN 1
 
 **Môn học:** Chuyên đề ASP.NET  
-**Tuần:** 1 (14/10/2025 – 20/10/2025)  
+**Tuần:** 1 (12/10/2025 – 19/10/2025)  
 **Sinh viên thực hiện:** Vũ Minh Quân  
 **Lớp:** DK24TTC2  
 **Mã sinh viên:** 170124134  
