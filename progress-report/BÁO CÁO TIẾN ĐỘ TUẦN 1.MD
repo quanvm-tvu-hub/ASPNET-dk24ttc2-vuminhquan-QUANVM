@@ -29,7 +29,7 @@ ASPNET-dk24ttc2-vuminhquan-QUANVM
 
 ## 2. Kết quả đạt được
 - Hoàn tất việc khởi tạo repository GitHub và thiết lập ban đầu đúng hướng dẫn.  
-- Đã có mô tả ban đầu cho dự án và các chức năng dự kiến của hệ thống:
+- Đã có mô tả ban đầu cho dự án và các chức năng dự kiến của hệ thống. 
 - Quản lý người dùng (đăng ký, đăng nhập).  
 - Xem và đặt dịch vụ chăm sóc thú cưng tại nhà.  
 - Quản lý danh sách thú cưng và lịch sử đặt dịch vụ.  
